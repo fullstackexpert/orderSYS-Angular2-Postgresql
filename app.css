@@ -1,0 +1,53 @@
+﻿a {
+    cursor: pointer;
+}
+
+.help-block {
+    font-size: 12px;
+}
+
+.jumbotron {
+    background-color : white;
+}
+
+thead {
+    background-color: #ddd;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+#btn_continue, #btn_confirm {
+    float: right;
+}
+
+#btn_back {
+    float: left;
+}
+
+.top_nav {
+    padding-bottom: 20px;
+}
+
+#dispatch_info {
+    padding:0px;
+    padding-bottom:20px;
+}
+
+#dispatch_label {
+    padding-top:5px;
+}
+
+li {
+    padding: 0px !important;
+}
+
+
+li.active.col-md-3 > a {
+    background-color:#337ab7 !important;
+}
+
+ul {
+    padding-right: 0px !important;
+}
